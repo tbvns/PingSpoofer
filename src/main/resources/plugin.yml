@@ -1,0 +1,4 @@
+name: PingSpoofer
+version: '${project.version}'
+main: xyz.tbvns.pingspoofer.PingSpoofer
+api-version: '1.20'
